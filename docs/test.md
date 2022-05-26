@@ -1,4 +1,38 @@
+==This is highlighted text==
+
+~~This is the wrong way to do~~
+
+
+```json
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "result": true
+}
+```
+
+
 !!! note
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
+!!! abstract
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
+!!! info
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
+!!! tip
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
+!!! warning
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
+!!! danger
     This is a multi line note
     in the Hyperledger Besu documentation.
 
