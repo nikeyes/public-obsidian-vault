@@ -28,11 +28,31 @@
     This is a multi line note
     in the Hyperledger Besu documentation.
 
+!!! success
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
+!!! question
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
 !!! warning
     This is a multi line note
     in the Hyperledger Besu documentation.
 
+!!! failure
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
+!!! bug
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
 !!! danger
+    This is a multi line note
+    in the Hyperledger Besu documentation.
+
+!!! quote
     This is a multi line note
     in the Hyperledger Besu documentation.
 
