@@ -1,3 +1,7 @@
+---
+creation date: 2022-05-27 07:23  
+---
+
 Para organizar mi vida laboral y personal uso [[GTD]] desde hace bastante tiempo.
 
 Tengo muy descontrolado todo el tema de mi gestor personal de conocimiento ([[PKM - Personal Knowledge Management]]).
