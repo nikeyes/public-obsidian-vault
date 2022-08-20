@@ -1,8 +1,8 @@
 ## Puesta en escena
 Fuentes: 
-- Formación de Comunicación de Adevinta
-- [Albert Mehrabian y su regla 55-38-7](https://edpyn.com/blog-coaching/mehrabian_comunicacion_no_verbal/#:~:text=Resultados%20del%20estudio%20de%20Mehrabian,verbal%2C%20o%20sea%2C%20cuerpo)
-- [11 claves para una comunicación no verbal efectiva](https://www.divulgaciondinamica.es/11-claves-comunicacion-no-verbal-efectiva/)
+- Formación de Comunicación de Adevinta  
+- [Albert Mehrabian y su regla 55-38-7](https://edpyn.com/blog-coaching/mehrabian_comunicacion_no_verbal/#:~:text=Resultados%20del%20estudio%20de%20Mehrabian,verbal%2C%20o%20sea%2C%20cuerpo)  
+- [11 claves para una comunicación no verbal efectiva](https://www.divulgaciondinamica.es/11-claves-comunicacion-no-verbal-efectiva/)  
 
 - Mehrabian dice que la comunicación efectiva se divide en estos puntos.
 	- 7% Expresión verbal
